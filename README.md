@@ -12,30 +12,30 @@
 
 ### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-d5d5d5?style=for-the-badge&logo=php&logoColor=0A0209" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-d5d5d5?style=for-the-badge&logo=laravel&logoColor=0A0209" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-d5d5d5?style=for-the-badge&logo=python&logoColor=0A0209" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-d5d5d5?style=for-the-badge&logo=openjdk&logoColor=0A0209" alt="Java"/>
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-d5d5d5?style=for-the-badge&logo=html5&logoColor=0A0209" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-d5d5d5?style=for-the-badge&logo=css3&logoColor=0A0209" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript"/>
 </p>
 
 ### Banco de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-d5d5d5?style=for-the-badge&logo=mysql&logoColor=0A0209" alt="MySQL"/>
 </p>
 
 ### Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Laragon-00A86B?style=for-the-badge" alt="Laragon"/>
+  <img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=0A0209" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-d5d5d5?style=for-the-badge&logo=visual-studio-code&logoColor=0A0209" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Laragon-d5d5d5?style=for-the-badge&logoColor=0A0209" alt="Laragon"/>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Ronalyson/Ronalyson/output/github-contribution-grid-snake-dark.svg)
