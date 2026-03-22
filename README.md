@@ -8,9 +8,6 @@
   <a href="mailto:contato@ronalyson.dev"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Ronalyson/Ronalyson/output/github-contribution-grid-snake-dark.svg)
-
-
 ## 🧠 Tecnologias e Estudos Atuais
 
 ### Backend
@@ -40,3 +37,5 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Laragon-00A86B?style=for-the-badge" alt="Laragon"/>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/Ronalyson/Ronalyson/output/github-contribution-grid-snake-dark.svg)
