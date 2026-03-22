@@ -1,4 +1,4 @@
-﻿# 👋 Hi there
+﻿# Hi, I'm Ronalyson 👋
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonalyson%2FRonalyson&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
@@ -8,7 +8,20 @@
   <a href="mailto:contato@ronalyson.dev"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
 </div>
 
-## 🧠 Tecnologias e Estudos Atuais
+I'm a backend developer focused on building systems, automations and integrations that solve real-world problems.
+I build solutions that reduce manual work, improve processes and increase operational efficiency.
+
+## 🚀 What I do
+- Build internal systems and web applications  
+- Automate repetitive and operational processes  
+- Integrate systems and handle data processing 
+
+## 📌 Featured Projects
+
+### 🔹 Licita Fácil
+Automation system for generating quotations for public bidding processes.
+
+## 🧠 Tech Stack & Learning
 
 ### Backend
 <p align="left">
@@ -25,7 +38,7 @@
   <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=javascript&logoColor=0A0209" alt="JavaScript"/>
 </p>
 
-### Banco de Dados
+### Database
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-d5d5d5?style=for-the-badge&logo=mysql&logoColor=0A0209" alt="MySQL"/>
 </p>
